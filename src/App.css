@@ -1,0 +1,23 @@
+.app {
+  text-align: center;
+}
+
+.app input {
+  margin-top: 1rem;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+  border: 1px solid #ced4da;
+}
+
+.app .output-box {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  padding: .5rem 1rem;
+  border: 1px solid #ced4da;
+  background-color: #f7f7f9;
+  border-radius: .3rem;
+  margin: 1rem auto;
+  width: 50%;
+}
